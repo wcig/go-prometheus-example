@@ -1,8 +1,8 @@
-# prometheus go 示例
+# Go prometheus 示例
 
 ## 1.介绍
 
-prometheus go 示例, 包括以下组件:
+Go prometheus 示例, 包括以下组件:
 
 * goapp
 * node_exporter
